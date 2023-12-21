@@ -4,7 +4,7 @@ from device import module
 
 __python__ = "3.10+"
 __school__ = "istanbul.edu.tr"
-__name__   = "blkid"
+__name__   = "usb devices"
 __github__ = "@knowhw"
 
 
