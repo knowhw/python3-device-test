@@ -5,7 +5,7 @@
 
 # device
 
-device is a Open Source Python Library that lists USB devices mounted to your computer.
+device library is a Open Source Python Library that lists USB devices mounted to your computer.
 
 <br/>
 
