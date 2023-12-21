@@ -9,5 +9,5 @@ from os import getenv
 class datatype:
 	dictionary={}
 class keys:
-	LABEL, UUID, TYPE, HOST= "LABEL","UUID","TYPE","USER"
+	LABEL,UUID,TYPE,HOST= "LABEL","UUID","TYPE","USER"
 	_ ="blkid"
