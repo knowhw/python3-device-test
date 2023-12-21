@@ -5,7 +5,7 @@
 
 # device
 
-device is a Open Source Python Library that lists USB devices mounted to your computer.
+device library is an Open Source Python Library that lists USB devices mounted to your computer.
 
 <br/>
 
@@ -13,8 +13,8 @@ device is a Open Source Python Library that lists USB devices mounted to your co
 ### Development
 
 ```sh
-git clone https://github.com/knowhw/python3-devices.git
-sudo cp -R python3-devices/device /usr/local/lib/python3.10
+git clone https://github.com/knowhw/python3-device.git
+sudo cp -R python3-device/device /usr/local/lib/python3.10
 
 ```
 
